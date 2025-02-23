@@ -18,21 +18,21 @@ The **Personal Finance Manager** is a web application designed to help users tra
 
 ## Project Setup  
 
-### **1 Clone the Repository**  
+### **1. Clone the Repository**  
 git clone https://github.com/TechByPriyanka/Personal-Finance-Manager.git
 cd Personal-Finance-Manager
 
-### **2 Install Dependencies**
+### **2. Install Dependencies**
 npm install
 
-### **3 `npm start`**
+### **3. `npm start`**
 Runs the app in the developmentmode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 This page will reload when you make changes.\
 You may also see any lint of errors in console.
 
-### **4 Run the Frontend**
+### **4. Run the Frontend**
 npm run dev
 
 ## Demo
