@@ -13,3 +13,23 @@ Frontend
 React (with Vite)
 HTML, CSS, JavaScript
 Bootstrap / TailwindCSS (if used)
+
+
+# 📌 Expense Management System - Frontend  
+
+## 🚀 Overview  
+This is the **frontend** of the Expense Management System, built using **React.js (Vite)**. It provides a user-friendly interface for managing income and expenses, viewing analytics, and handling user authentication.  
+
+## 🛠️ Tech Stack  
+- **Frontend Framework:** React.js (Vite)  
+- **Styling:** Tailwind CSS / Bootstrap  
+- **State Management:** React Hooks & Context API  
+- **Routing:** React Router  
+- **Authentication:** JWT (JSON Web Token)  
+
+## 📂 Project Setup  
+
+### **1️⃣ Clone the Repository**  
+```bash
+git clone https://github.com/yourusername/expense-management-frontend.git
+cd expense-management-frontend
